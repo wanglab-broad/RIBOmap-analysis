@@ -12,4 +12,4 @@ Scripts for the '**Spatially Resolved Single-cell Translatomics at Molecular Res
 
 #### Contributor
 
-Jiahao Huang, Kangni (Connie) Wang, Zefang Tang, Hu Zeng
+Jiahao Huang, Connie Wang, Zefang Tang, Hu Zeng
