@@ -1,16 +1,5 @@
-# HeLa cell culture data analysis
+# Brain region alignment 
 
-0. preprocessing ()
-	* 0. amplicon identification demo.mlx
-	* 1. staining image registration demo
-	* 2. image stitching and segmentation demo.mlx
-1. reads assignment fucci.ipynb
-2. generate h5ad input.ipynb
-3. preprocessing and filtering.ipynb
-4. generate cell cycle label.ipynb
-co-expression.ipynb
-co-localization.ipynb
-colocalization_permutation.ipynb
-spatial_funcs.py
-cell_cycle_markers.xlsx
-non-coding RNA.xlsx
+1. first use the `demo_histology_pipeline_slice_v4.m` to generate the CCF alignment files.
+2. use `get_histology_annotation_on_raw_slice_v4.m` to generate the CCF region figure and label names.
+3. (Optional) use the `readin_ccf_annotation_slice_v4.mlx` to generate the parent region figure.
