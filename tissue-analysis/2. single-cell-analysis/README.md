@@ -8,14 +8,13 @@
 
 4. ```label transfer starmap.ipynb```: contains codes for data integration and label transfer between RIBOmap and STARmap. 
 
-5. ```cldn11 quantification.ipynb```: contains codes for Cldn11 signal quantification. 
+5. ```analysis & visualization.ipynb```: contains codes for tissue data analysis and visualization. 
 
-6. ```gng2 quantification.ipynb```: contains codes for Gng2 signal quantification. 
+6. ```protein quantification.ipynb```: contains codes for GFAP/NeuN protein signal quantification. 
 
-7. ```protein quantification.ipynb```: contains codes for GFAP/NeuN protein signal quantification. 
+7. ```process and soma reads enrichment.ipynb```: contains codes for reads localization enrichment analysis. 
 
-8. ```process and soma reads enrichment.ipynb```: contains codes for reads localization enrichment analysis. 
+8. ```gene clustering.R```: contains codes for gene module clustering. 
 
-9. ```gene clustering.R```: contains codes for gene module clustering. 
 
-10. ```translation-efficiency```: contains codes related to translation efficiency calculation. 
+The latest starmap python library can be found at [wanglab-broad/starmap-py](https://github.com/wanglab-broad/starmap-py). 
