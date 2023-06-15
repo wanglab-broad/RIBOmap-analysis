@@ -18,5 +18,3 @@
 8. ```spatial_funcs.py```: contains functions related to gene co-localization analysis.
 
 9. ```cell_cycle_markers.xlsx```: annotated cell cycle gene markers.
-
-10. ```non-coding RNA.xlsx```: coding/non-coding annotation of each gene. 
