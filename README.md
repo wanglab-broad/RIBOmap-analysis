@@ -1,5 +1,7 @@
 # RIBOmap
 
+![image](.example_image.jpg)
+
 This repository contains scripts for the '**Spatially Resolved Single-cell Translatomics at Molecular Resolution**'. 
 
 1. ```HeLa cell culture data analysis``` (preprocessing, cell cycle, co-expression, and co-localization)
@@ -10,6 +12,12 @@ Please refer to the README.md files under each subfolder for more detailed infor
 ***
 
 ### Other Info
+
+#### Citation
+
+Please cite our paper if you find our work useful.: 
+
+> [Zeng, H., Huang, J., Ren, J., Wang, C.K., Tang, Z., Zhou, H., Zhou, Y., Shi, H., Aditham, A., Sui, X. and Chen, H., 2023. Spatially resolved single-cell translatomics at molecular resolution. *Science*, *380*(6652), p.eadd3067.](https://www.science.org/doi/10.1126/science.add3067)
 
 #### Related Dataset 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8041114.svg)](https://doi.org/10.5281/zenodo.8041114)
